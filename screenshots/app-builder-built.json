@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "字笺",
+      "hasCanvas": false,
+      "bodyTextLen": 696,
+      "bodyTextHash": "3f9ff62bf57c0a9126093f77ca48f0cfc32bc5caa732c603a2b875f59754ed04",
+      "bodyTextPrefix": "字 字笺 应声 · 30 张可抽 字 字笺不会自己编话 你说一句，它只从你的字卡库里抽一张回来。库里已经放了闲话、短句、回嘴、打",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "字笺",
+      "hasCanvas": false,
+      "bodyTextLen": 696,
+      "bodyTextHash": "3f9ff62bf57c0a9126093f77ca48f0cfc32bc5caa732c603a2b875f59754ed04",
+      "bodyTextPrefix": "字 字笺 应声 · 30 张可抽 字 字笺不会自己编话 你说一句，它只从你的字卡库里抽一张回来。库里已经放了闲话、短句、回嘴、打",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
